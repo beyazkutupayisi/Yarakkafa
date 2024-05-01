@@ -1,4 +1,5 @@
-import sys
+i
+mport sys
 
 # Check version
 PYTHON_VERSION = bytes([46]).decode().join(sys.version.split(bytes([32]).decode())[0].split(bytes([46]).decode())[:-1])
